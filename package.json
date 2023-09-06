@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@unocss/webpack": "^0.55.7",
+    "install": "^0.13.0",
+    "npm": "^10.0.0"
+  },
+  "dependencies": {
+    "unocss": "^0.55.7"
+  }
+}
